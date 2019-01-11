@@ -1,5 +1,6 @@
 # Gamification of Clustering
 ## How to play
+- Start up the program by running the start.exe in the unpacked folder
 - Select your dataset of choice and your username
 - Start the game, and try to find the best clusters you can using linear correlations
 - You can check your current score in the submit panel, as well as committing your score. The top 10 scores for the selected dataset are listed.
